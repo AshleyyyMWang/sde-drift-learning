@@ -46,4 +46,4 @@ sde_pytorch_project/
 
 ## Notes
 
-This project is intentionally small and focused. The neural network learns the drift of an OU process from simulated data. You can extend these functions to other types of SDEs (e.g. geometric Brownian motion) or experiment with different network architectures. The key concept is to show the ability to code numerical simulation of SDEs and apply modern machine learning tools to learn patterns in time series data.
+This project is intentionally small and focused. The neural network learns the drift of an OU process from simulated data. You can extend these functions to other types of SDEs (e.g. geometric Brownian motion) or experiment with different network architectures. 
